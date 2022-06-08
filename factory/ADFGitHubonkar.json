@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitHubonkar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "350711e8-e435-448f-b4f5-fac6a7f671b4",
+		"tenantId": "57084445-e440-441f-bc3f-fabe8cbb2535"
+	}
+}
