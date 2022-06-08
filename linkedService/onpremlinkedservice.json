@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "SqlServer",
 		"typeProperties": {
-			"connectionString": "integrated security=False;data source=TMGLAP807\\MSSQLSERVER3;initial catalog=StudentDB;user id=sa",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjMmMxZjJkNS0xYzNlLTQwNTMtYWNhOS01N2U1ZDYyZWIxMWMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "integrated security=False;data source=TMGLAP807\\MSSQLSERVER3;initial catalog=SQLTest;user id=sa",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0Zjc1ZmViOC1hNzk2LTRmYmQtYTZiNi1iOWUyZDdjOTY3YmEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "IRselfhosted",
