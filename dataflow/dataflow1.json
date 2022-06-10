@@ -56,7 +56,7 @@
 				"     ignoreSpaces: false,",
 				"     broadcast: 'auto')~> joinempandemployee",
 				"joinempandemployee sink(allowSchemaDrift: true,",
-				"     validateSchema: false,",
+				"     validateSchema: true,",
 				"     deletable:false,",
 				"     insertable:true,",
 				"     updateable:false,",
